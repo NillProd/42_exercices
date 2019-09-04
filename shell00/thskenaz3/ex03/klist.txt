@@ -1,0 +1,6 @@
+Credentials cache: API:06E35356-E898-4CEB-BF6E-872FECA85C14
+        Principal: thskenaz@42.FR
+
+Issued                Expires               Principal
+Jul 31 14:15:21 2019  Aug  7 14:15:21 2019  krbtgt/42.FR@42.FR
+Jul 31 14:26:45 2019  Aug  7 14:15:21 2019  host/vgs-fn1.42.fr@42.FR
